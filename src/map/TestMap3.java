@@ -27,12 +27,8 @@ public class TestMap3 {
 			System.out.println("valor Substituído");
 		}
 		
-		System.out.println("Mapa M1 ----> " + m2);
-		
-		System.out.println("Mapa M1 ----> " + m1);		
-		
-		System.out.println("Mapa M1 ----> " + m2);
-		
+		System.out.println("Mapa M1 ----> " + m1);
 	}
+	
 
 }
